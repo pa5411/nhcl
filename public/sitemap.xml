@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/pages/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/facilities/event-spaces/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/facilities/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
