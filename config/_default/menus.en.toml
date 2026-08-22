@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+name = "Event Spaces"
+pageRef = "Event Spaces"
+weight = 9
+
+[[main]]
 name = "About"
 pageRef = "About"
 weight = 10
