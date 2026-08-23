@@ -13,30 +13,28 @@ showPagination = false
 ## Overview 
 
 ### Address 
-North Harrow Community Library  
-429-433 Pinner Road  
-Harrow  
+
+North Harrow Community Library \
+429-433 Pinner Road \
+Harrow \
 HA1 4HN
 
-{{< accordion separated=false >}}
-{{< accordionItem title="View Map" >}}
-<iframe 
-  src="https://www.google.com/maps/d/embed?mid=1xPfZ1IjVtDZtCEKEOwgM_c7ePTR2kizJ&ehbc=2E312F"
-  style="width:100%; height:300px; border:0;"
-  loading="lazy"
-  allowfullscreen>
-</iframe>
-{{< /accordionItem >}}
-{{< /accordion >}}
+{{< cta url="https://www.google.com/maps/d/embed?mid=1xPfZ1IjVtDZtCEKEOwgM_c7ePTR2kizJ&ehbc=2E312F" label="View on Google Maps" style="outline" >}}
 
 ### Opening hours
-Monday: CLOSED \
-Tuesday: 10am to 5pm \
-Wednesday: CLOSED \
-Thursday: 10am to 5pm \
-Friday: CLOSED \
-Saturday: 10am to 5pm \
-Sunday: CLOSED
+
+> [!TIP]
+> The Library is also available for hire any day of the week. Please email for enquiries and availability.
+
+{{< feature-grid >}}
+    {{< feature title="Monday" >}}Closed{{< /feature >}}
+    {{< feature title="Tuesday" >}}10:00 - 17:00{{< /feature >}}
+    {{< feature title="Wednesday" >}}13:30 – 17:00{{< /feature >}}
+    {{< feature title="Thursday" >}}10:00 – 17:00{{< /feature >}}
+    {{< feature title="Friday" >}}Closed{{< /feature >}}
+    {{< feature title="Saturday" >}}10:00 – 17:00{{< /feature >}}
+    {{< feature title="Sunday" >}}Closed{{< /feature >}}
+{{< /feature-grid >}}
 
 ## Getting Here
 
