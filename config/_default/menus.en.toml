@@ -13,6 +13,12 @@
 [[main]]
 name = "Event Spaces"
 pageRef = "Event Spaces"
+weight = 8
+
+
+[[main]]
+name = "Getting Here"
+pageRef = "Getting Here"
 weight = 9
 
 [[main]]
