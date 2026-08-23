@@ -1,12 +1,22 @@
 +++
-title = 'Welcome'
+title = 'North Harrow Community Library'
 date = 2024-02-02T04:14:54-08:00
 draft = false
 +++
 
-{{< typeit >}}
+{{< lead >}}
+{{< typeit loop="true">}}
 A library for everyone!
 {{< /typeit >}}
+{{< /lead >}}
+
+{{< stats >}}
+{{< stat value="25000" label="Books" >}}We hold a large collection of books in our catalogue.{{< /stat >}}
+{{< stat value="4500+" label="Members" >}}A large number of people have already joined...come join the fun!{{< /stat >}}
+{{< stat value="50+" label="Volunteers" >}}The Library is run entirely by a group of dedicated volunteers.{{< /stat >}}
+{{< /stats >}}
+
+## Our History
 
 {{< timeline >}}
 
