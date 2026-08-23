@@ -95,7 +95,7 @@ We offer B&W (black and white) and colour printing onto both A4 and A3 paper for
 ### Printer FAQs
 
 {{< accordion mode="collapse" >}}
-  {{< accordionItem title="Can I print something directly from my phone or laptop?" open=true >}}
+  {{< accordionItem title="Can I print something directly from my phone or laptop?" >}}
   We do not offer WiFi printing. 
   
   However, if you are unable to log into one of our computers to access your documents, you can send your document(s) from your device to our secure email address. We can then print the documents and will delete the email immediately afterwards.  
