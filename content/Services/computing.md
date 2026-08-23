@@ -16,7 +16,13 @@ showPagination = false
 Use our computer facilities
 {{< /lead >}}
 
-Computers, a fast free WiFi connection and a multi printer, scanner and photocopier. We have you covered!
+A fast free WiFi connection, computers and a multi printer, scanner and photocopier. We have you covered!
+
+***
+
+## WiFi
+
+WiFi is available free of charge throughout the Library. See inside for details. 
 
 ***
 
