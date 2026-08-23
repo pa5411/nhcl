@@ -15,20 +15,20 @@ name = "Donate"
 weight = 1
 
 [[main]]
-name = "PayPal"
+name = "PayPal ↗"
 parent="Donate"
 pre = "paypal"
 url = "https://www.paypal.com/gb/fundraiser/charity/3228213"
 weight = 1
 
 [[main]]
-name = "Charities Aid Foundation"
+name = "Charities Aid Foundation ↗"
 parent="Donate"
 url = "https://cafdonate.cafonline.org/14577#!/DonationDetails"
 weight = 2
 
 [[main]]
-name = "Harrow Wins Lottery"
+name = "Harrow Wins Lottery ↗"
 parent="Donate"
 url="https://www.harrowwins.co.uk/support/north-harrow-community-library"
 weight=3
