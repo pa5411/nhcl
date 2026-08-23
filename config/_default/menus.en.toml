@@ -16,8 +16,8 @@ pageRef = "Event Spaces"
 weight = 8
 
 [[main]]
-name = "Getting Here"
-pageRef = "Getting Here"
+name = "Visit"
+pageRef = "Visit"
 weight = 9
 
 [[main]]
