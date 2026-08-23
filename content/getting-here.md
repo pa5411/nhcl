@@ -1,5 +1,5 @@
 +++
-title = 'Getting Here'
+title = 'Visit'
 date = 2026-08-14T07:07:07+01:00
 draft = false
 showAuthor = false
@@ -10,8 +10,9 @@ showRelatedContent = false
 showPagination = false
 +++
 
-## Address 
+## Overview 
 
+### Address 
 North Harrow Community Library  
 429-433 Pinner Road  
 Harrow  
@@ -28,22 +29,32 @@ HA1 4HN
 {{< /accordionItem >}}
 {{< /accordion >}}
 
-## Tube
+### Opening hours
+Monday: CLOSED \
+Tuesday: 10am to 5pm \
+Wednesday: CLOSED \
+Thursday: 10am to 5pm \
+Friday: CLOSED \
+Saturday: 10am to 5pm \
+Sunday: CLOSED
 
-The Library is a two minute walk from North Harrow tube station in fare zone 5, which is served by the Metropolitan Line and operated by Transport for London.
+## Getting Here
 
-## Bus
+{{< feature-grid >}}
+{{< feature title="Tube" icon="train" url="https://tfl.gov.uk/tube/stop/940GZZLUNHA/north-harrow-underground-station/" >}}
+The Library is a two minute walk from North Harrow tube station.
+{{< /feature >}}
+{{< feature title="Bus" url="https://tfl.gov.uk/maps/bus?Input=North+Harrow+Underground+Station&InputGeolocation=51.584872%2C-0.362408">}}
+Nearby buses include the 183 and two circular routes, H9/ H10 and H18/ H19.
+{{< /feature >}}
+{{< feature title="Rail" url="https://www.nationalrail.co.uk/stations/harrow-on-the-hill/">}}
+The nearest rail station is Harrow-on-the-Hill.
+{{< /feature >}}
+{{< feature title="Car" >}}
+Follow directions towards 429-433 Pinner Road (A404).
+{{< /feature >}}
+{{< feature title="Bike" >}}
+Bicycle lanes exist along Imperial Drive and the A404 Pinner Road.
+{{< /feature >}}
+{{< /feature-grid >}}
 
-The Library is served by three bus routes, the 183 and two circular routes, H9/ H10 and H18/ H19, all of which are operated by Transport for London. For the 183 or H18/ H19, alight at Durham Road (stop NJ) or Station Road (stop NC). For the H9/ H10, alight at North Harrow Station (stop NK or stop NA).
-
-## Rail 
-
-The nearest rail station is Harrow-on-the-Hill station in fare zone 5. It is located about ~1.1 miles from the Library and is served by trains operated by Chiltern Railways.
-
-## Car 
-
-Driving away from Harrow centre, follow the A404 towards Pinner. Driving away from Rayners Lane, proceed along Imperial Drive, past North Harrow tube station and turn right onto the A404 Pinner Road towards Harrow.
-
-## Bike 
-
-Bicycle lanes exist along Imperial Drive and the A404 Pinner Road. There are two bicycle parking racks available to the public located just outside the Library. Additional bicycle parking racks are located outside North Harrow tube station. Map of the local cycle network (opens a pdf document).
