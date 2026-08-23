@@ -15,7 +15,6 @@ name = "Event Spaces"
 pageRef = "Event Spaces"
 weight = 8
 
-
 [[main]]
 name = "Getting Here"
 pageRef = "Getting Here"
@@ -28,9 +27,26 @@ weight = 10
 
 [[main]]
 name = "Donate"
+weight = 5
+
+[[main]]
+name = "PayPal"
+parent="Donate"
 pre = "paypal"
 url = "https://www.paypal.com/gb/fundraiser/charity/3228213"
-weight = 5
+weight = 1
+
+[[main]]
+name = "Charities Aid Foundation"
+parent="Donate"
+url = "https://cafdonate.cafonline.org/14577#!/DonationDetails"
+weight = 2
+
+[[main]]
+name = "Harrow Wins Lottery"
+parent="Donate"
+url="https://www.harrowwins.co.uk/support/north-harrow-community-library"
+weight=3
 
 #[[main]]
 #  name = "example sub-menu 1"
