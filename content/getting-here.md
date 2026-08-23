@@ -1,13 +1,16 @@
 +++
 title = 'Getting Here'
-date = 2024-01-14T07:07:07+01:00
+date = 2026-08-14T07:07:07+01:00
 draft = false
 showAuthor = false
-showDate = false
+showDate = true
+showWordCount = false
+showReadingTime = false
+showRelatedContent = false
+showPagination = false
 +++
 
 ## Address 
-  
 
 North Harrow Community Library  
 429-433 Pinner Road  
@@ -24,9 +27,6 @@ HA1 4HN
 </iframe>
 {{< /accordionItem >}}
 {{< /accordion >}}
-
-
-
 
 ## Tube
 
