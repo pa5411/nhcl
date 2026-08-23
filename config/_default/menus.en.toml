@@ -38,11 +38,18 @@ name = "Services"
 pageRef = "Services"
 weight = 2
 
+
+[[main]]
+name = "Computer and Printer Facilities"
+parent = "Services"
+pageRef = "computing"
+weight = 1
+
 [[main]]
 name = "Event Spaces"
 parent = "Services"
 pageRef = "Event Spaces"
-weight = 1
+weight = 2
 
 [[main]]
 name = "Visit"
