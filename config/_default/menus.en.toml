@@ -11,23 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Event Spaces"
-pageRef = "Event Spaces"
-weight = 8
-
-[[main]]
-name = "Visit"
-pageRef = "Visit"
-weight = 9
-
-[[main]]
-name = "About"
-pageRef = "About"
-weight = 10
-
-[[main]]
 name = "Donate"
-weight = 5
+weight = 1
 
 [[main]]
 name = "PayPal"
@@ -47,6 +32,27 @@ name = "Harrow Wins Lottery"
 parent="Donate"
 url="https://www.harrowwins.co.uk/support/north-harrow-community-library"
 weight=3
+
+[[main]]
+name = "Services"
+pageRef = "Services"
+weight = 2
+
+[[main]]
+name = "Event Spaces"
+parent = "Services"
+pageRef = "Event Spaces"
+weight = 1
+
+[[main]]
+name = "Visit"
+pageRef = "Visit"
+weight = 3
+
+[[main]]
+name = "About"
+pageRef = "About"
+weight = 4
 
 #[[main]]
 #  name = "example sub-menu 1"
