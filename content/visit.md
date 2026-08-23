@@ -12,6 +12,10 @@ showPagination = false
 
 ## Overview 
 
+{{< lead >}}
+Plan your visit!
+{{< /lead >}}
+
 ### Address 
 
 North Harrow Community Library \
@@ -56,3 +60,10 @@ Bicycle lanes exist along Imperial Drive and the A404 Pinner Road.
 {{< /feature >}}
 {{< /feature-grid >}}
 
+## Car Parking
+
+The Library has 4 parking spaces available for patrons to use during their visit. Please be prepared to park at a different location if necessary. The nearest public car park is “Cambridge Road” and has a total of 150 spaces available. Its entrance is via the A404, located just opposite the local gym. 
+
+## Accessibility 
+
+Step-free access to the Library is available via a paved ramp with hand rails. An automatic door is in use at the entrance. An accessible toilet is also available.
