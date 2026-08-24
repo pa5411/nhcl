@@ -63,8 +63,17 @@ In March 2020, North Harrow Library was again forced to close, this time due to 
 
 {{< /timelineItem >}}
 
+{{< timelineItem icon="star" header="Covid Reopening in Covid" badge="2021" >}}
+North Harrow Community Library is here today because we believe that a library space and a community space is important for all individuals in society. Our volunteers give up their time and energy because they believe in this, as do all who support and donate to us. After two more lockdown closures, we reopened in April 2021, with Covid-secure measures in place. We are excited to be back serving the community. 
+{{< /timelineItem >}}
+
+{{< timelineItem icon="star" header="Children's Library Refurbishment" badge="2025" >}}
+We graciously received funding from the local council to embark on an unprecedented refurbishment of the children's area of the Library. Solar film on the windows, a new lick of paint, new shelving, new flooring, display units and an autism-friendly sensory board. No stone was left unturned. 
+
+{{< /timelineItem >}}
+
 {{< timelineItem icon="star" header="The Future" badge="present" >}}
-North Harrow Community Library is here today because we believe that a library space and a community space is important for all individuals in society. Our volunteers give up their time and energy because they believe in this, as do all who support and donate to us. After two more lockdown closures, we reopened in April 2021, with Covid-secure measures in place. We are excited to be back serving the community. Come along and see what we will do next.
+Come along and see what we will do next.
 {{< /timelineItem >}}
 
 {{< /timeline >}}
