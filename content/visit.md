@@ -30,15 +30,15 @@ HA1 4HN
 > [!TIP]
 > The Library is also available for hire any day of the week. Please email for enquiries and availability.
 
-{{< feature-grid >}}
-    {{< feature title="Monday" >}}Closed{{< /feature >}}
-    {{< feature title="Tuesday" >}}10:00 - 17:00{{< /feature >}}
-    {{< feature title="Wednesday" >}}13:30 – 17:00{{< /feature >}}
-    {{< feature title="Thursday" >}}10:00 – 17:00{{< /feature >}}
-    {{< feature title="Friday" >}}Closed{{< /feature >}}
-    {{< feature title="Saturday" >}}10:00 – 17:00{{< /feature >}}
-    {{< feature title="Sunday" >}}Closed{{< /feature >}}
-{{< /feature-grid >}}
+| Day | Hours |
+| --- | --- |
+| Monday | CLOSED | 
+| Tuesday | 10:00 - 17:00 | 
+| Wednesday | 13:30 - 17:00 | 
+| Thursday | 10:00 - 17:00 | 
+| Friday | CLOSED | 
+| Saturday | 10:00 - 17:00 | 
+| Sunday | CLOSED | 
 
 ## Getting Here
 
