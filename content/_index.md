@@ -51,6 +51,10 @@ We opened our doors to the public in September 2018 – a new chapter in the lif
 {{< /gallery >}}
 {{< /timelineItem >}}
 
+{{< timelineItem icon="star" header="Harrow Heroes: 'Bringing People Together' Winners" badge="2019" >}}
+
+{{< /timelineItem >}}
+
 {{< timelineItem icon="star" header="Moving Online" badge="2020" >}}
 In March 2020, North Harrow Library was again forced to close, this time due to lockdown. But we were not going to leave our members on their own. So during this time, our tireless volunteers worked hard to maintain that sense of community that is so essential to life here in Harrow. Events that would usually take place in the Library, such as Rhyme Time and author visits, were moved online. Our YouTube channel kept people informed and entertained. We stayed in touch through Instagram, Facebook and Twitter.
 
