@@ -35,7 +35,7 @@ The North Harrow Library Trust was formed to keep North Harrow Library open. But
 The hard work had only just begun. Having been shut since 2015, there were three years’ worth of dust to clear. Then a million other tasks: organising the books; setting up a brand-new computer record system for the library catalogue; liaising with the local community and businesses; everything was done and is done by unpaid volunteers giving up their time for free.
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Grand Reopening" badge="Sept 2018" >}}
+{{< timelineItem icon="star" header="Grand Reopening" badge="September 2018" >}}
 
 We opened our doors to the public in September 2018 – a new chapter in the life of the Library. Visitors to our Library were welcomed over the threshold to enjoy the community space our volunteers had rebuilt. They could join Rhyme Time, led by our fantastic volunteer storyteller. They could take out books, use our computers, attend events with authors and join classes that were held at the Library. At every visit, they would meet our friendly volunteers who give up their time to ensure everyone has access to library services.
 <br/><br/><br/>
@@ -51,11 +51,11 @@ We opened our doors to the public in September 2018 – a new chapter in the lif
 {{< /gallery >}}
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Harrow Heroes: 'Bringing People Together' Winners" badge="2019" >}}
+{{< timelineItem icon="star" header="Harrow Heroes: 'Bringing People Together' Winners" badge="September 2019" >}}
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Moving Online" badge="2020" >}}
+{{< timelineItem icon="star" header="Moving Online" badge="March 2020" >}}
 In March 2020, North Harrow Library was again forced to close, this time due to lockdown. But we were not going to leave our members on their own. So during this time, our tireless volunteers worked hard to maintain that sense of community that is so essential to life here in Harrow. Events that would usually take place in the Library, such as Rhyme Time and author visits, were moved online. Our YouTube channel kept people informed and entertained. We stayed in touch through Instagram, Facebook and Twitter.
 
 <br/><br/><br/>
