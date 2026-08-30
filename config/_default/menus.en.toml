@@ -27,11 +27,11 @@ parent="Donate"
 url = "https://cafdonate.cafonline.org/14577#!/DonationDetails"
 weight = 2
 
-[[main]]
-name = "Harrow Wins Lottery ↗"
-parent="Donate"
-url="https://www.harrowwins.co.uk/support/north-harrow-community-library"
-weight=3
+# [[main]]
+# name = "Harrow Wins Lottery ↗"
+# parent="Donate"
+# url="https://www.harrowwins.co.uk/support/north-harrow-community-library"
+# weight=3
 
 [[main]]
 name = "Services"
