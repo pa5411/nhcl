@@ -1,0 +1,27 @@
+#dynamic-scroll-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  pointer-events: none;
+  
+  /* Change transition to opacity */
+  opacity: 0; 
+  transition: opacity 0.8s ease-in-out; 
+}
+
+/* This class will be toggled by JavaScript to fade the image in */
+#dynamic-scroll-bg.is-active {
+  opacity: 0.15; /* Target opacity when an item is in view */
+}
+
+.custom-timeline-image img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
