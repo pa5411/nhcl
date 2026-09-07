@@ -131,7 +131,7 @@ We graciously received funding from the local council to embark on an unpreceden
 We graciously received funding from the local council to embark on an unprecedented refurbishment of the children's area of the Library. Solar film on the windows, a new lick of paint, new shelving, new flooring, display units and an autism-friendly sensory board. No stone was left unturned. 
 <br/>
 <br/>
-{{< cta url="https://www.bookspaceforschools.co.uk/case-studies/north-harrow-community-library/" label="Book Space for Schools - North Harrow Community Library Case Study" style="outline" >}}
+{{< cta url="https://www.bookspaceforschools.co.uk/case-studies/north-harrow-community-library/" label="[Book Space for Schools] North Harrow Community Library Case Study" style="outline" >}}
 
 {{< /timelineItem >}}
 </div>
