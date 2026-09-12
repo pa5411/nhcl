@@ -37,18 +37,35 @@ weight = 2
 name = "Services"
 weight = 2
 
-
 [[main]]
-name = "Computer and Printer Facilities"
+name = "Computers & WiFi"
 parent = "Services"
 pageRef = "computing"
 weight = 1
 
 [[main]]
+name = "Printing"
+parent = "Services"
+pageRef = "printing"
+weight = 2
+
+[[main]]
+name = "Photocopying"
+parent = "Services"
+pageRef = "photocopying"
+weight = 3
+
+[[main]]
+name = "Scanning"
+parent = "Services"
+pageRef = "scanning"
+weight = 4
+
+[[main]]
 name = "Event Spaces"
 parent = "Services"
 pageRef = "Event Spaces"
-weight = 2
+weight = 5
 
 [[main]]
 name = "Visit"
