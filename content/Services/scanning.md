@@ -25,6 +25,7 @@ A flat fee of `20p` for black and white or colour and a reasonable number of doc
 ### How to scan
 
 {{< steps >}}
-{{< step number="1" title="Talk to a volunteer" >}}A volunteer will scan your document(s){{< /step >}}
-{{< step number="2" title="Select a computer or USB stick" >}}We can scan the document(s) directly to one of our computers or to a USB (Type A) stick{{< /step >}}
+{{< step number="1" title="Prepare the documents" >}}Please remove items such as staples and paperclips, and have the documents prepared in the correct order{{< /step >}}
+{{< step number="2" title="Talk to a volunteer" >}}A volunteer will scan your document(s){{< /step >}}
+{{< step number="3" title="Select a computer or USB stick" >}}We can scan the document(s) directly to one of our computers or to a USB (Type A) stick{{< /step >}}
 {{< /steps >}}

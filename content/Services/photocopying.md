@@ -25,5 +25,6 @@ This is the same as the printing costs.
 ### How to photocopy
 
 {{< steps >}}
-{{< step number="1" title="Talk to a volunteer" >}}A volunteer will photocopy your document(s){{< /step >}}
+{{< step number="1" title="Prepare the documents" >}}Please remove items such as staples and paperclips, and have the documents prepared in the correct order{{< /step >}}
+{{< step number="2" title="Talk to a volunteer" >}}A volunteer will photocopy your document(s){{< /step >}}
 {{< /steps >}}
