@@ -8,6 +8,8 @@ showWordCount = false
 showReadingTime = false
 showRelatedContent = false
 showPagination = false
+series = ["Computing Facilities"]
+series_order = 2
 +++
 
 ## Overview 
