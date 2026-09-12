@@ -22,6 +22,28 @@ Use our photocopying facilities
 
 This is the same as the printing costs.
 
+{{< tabs >}}
+
+    {{< tab label="A4 Paper" >}}
+        {{< stats columns="4">}}
+            {{< stat-nolabel value="20p" >}}Single-sided black & white A4 print.{{< /stat-nolabel >}}
+            {{< stat-nolabel value="40p" >}}Double-sided black & white A4 print.{{< /stat-nolabel >}}
+            {{< stat-nolabel value="60p" >}}Single-sided colour A4 print.{{< /stat-nolabel >}}
+            {{< stat-nolabel value="£1.20" >}}Double-sided colour A4 print.{{< /stat-nolabel >}}
+        {{< /stats >}}
+    {{< /tab >}}
+
+    {{< tab label="A3 Paper" >}}
+        {{< stats columns="4">}}
+            {{< stat-nolabel value="£1" >}}Single-sided black & white A3 print.{{< /stat-nolabel >}}
+            {{< stat-nolabel value="£2" >}}Double-sided black & white A3 print.{{< /stat-nolabel >}}
+            {{< stat-nolabel value="£2" >}}Single-sided colour A3 print.{{< /stat-nolabel >}}
+            {{< stat-nolabel value="£4" >}}Double-sided colour A3 print.{{< /stat-nolabel >}}
+        {{< /stats >}}
+    {{< /tab >}}
+
+{{< /tabs >}}
+
 ### How to photocopy
 
 {{< steps >}}
