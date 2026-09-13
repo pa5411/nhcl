@@ -10,7 +10,6 @@ showPagination = false
 showHero = true
 heroStyle = "background"
 layoutBackgroundBlur = true
-featureimage = "/images/home-gallery/campaign-library.png"
 layoutBackgroundHeaderSpace = false
 +++
 
