@@ -10,6 +10,10 @@ showRelatedContent = false
 showPagination = false
 series = ["Computing Facilities"]
 series_order = 1
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
 +++
 
 ## Overview 
