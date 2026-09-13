@@ -18,7 +18,7 @@ series_order = 1
 Use our computer facilities
 {{< /lead >}}
 
-A fast free WiFi connection, computers and a multi printer, scanner and photocopier. We have you covered!
+A fast free WiFi connection and several computers. We have you covered!
 
 ## WiFi
 
