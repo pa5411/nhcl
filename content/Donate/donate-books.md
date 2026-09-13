@@ -31,27 +31,33 @@ Once you donate a book, one of three things happens:
 
         {{< mermaid >}}
 
-            flowchart TD
+          flowchart TD
 
-                A[Books donated to the Library] --> B{Add to Library collection?}
+              A[Books Donated to the Library] --> B{Add to Library Collection?}
 
-                B -->|Yes| C[Catalogue and put on shelf]
+              B -->|Yes| C[Added to Library Collection]
 
-                B -->|No| D{Suitable for eBay?}
+              B -->|No| D{Sale Potential?}
 
-                D -->|Yes| E[Sell on eBay]
+              D -->|eBay| E[Sell on eBay]
 
-                D -->|No| F[Scan with Ziffit]
+              D -->|Unsure| F[Scan with Ziffit]
 
-                F --> G{High Value?}
+              F --> G{High Value?}
 
-                G -->|Yes| E
+              G -->|Yes| E
 
-                G -->|No| H[Donate to Freecycle]
+              G -->|No| H{Suitable for Library Book Sale?}
 
-                H --> I[Store in storage unit]
+              H -->|Yes| I[Sell in Library]
 
-                I --> J[Collected by Freecycle]
+              H -->|No| J[Donate to Freecycle]
+
+              E --> K[Raises Funds for the Library]
+              I --> K
+
+              J --> L[Stored Until Collection]
+              L --> M[Collected by Freecycle]
         {{< /mermaid >}}
   {{< /accordionItem >}}
 
