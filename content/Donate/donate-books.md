@@ -23,6 +23,7 @@ Once you donate a book, one of three things happens:
 
 * We may add the book to the library catalogue
 * We may sell the book on Ziffit or eBay to raise funds for the library
+* We may sell the book in the Library
 * We may pass the book onto [Freecycle](https://www.freecycle.org)
 
 {{< accordion mode="open" separated=true >}}
