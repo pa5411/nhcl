@@ -27,6 +27,12 @@ parent="Donate"
 url = "https://cafdonate.cafonline.org/14577#!/DonationDetails"
 weight = 2
 
+[[main]]
+name = "Donate Books"
+parent="Donate"
+pageref = "donate-books" 
+weight = 3
+
 # [[main]]
 # name = "Harrow Wins Lottery ↗"
 # parent="Donate"
