@@ -20,6 +20,7 @@ body:
       options:
         - News
         - Event
+        - Annoucement
     validations:
       required: true
   - type: dropdown
@@ -38,6 +39,7 @@ body:
         - Business
         - Kids
         - Adults
+        - Other
     validations:
       required: true
   - type: upload
