@@ -1,17 +1,9 @@
 name: News Post
-description: Create a new post.
+description: Use this form to create a news or event post on the library website.
 body:
   - type: markdown
     attributes:
-      value: Use this form to create a news or event post on the library website.
-  - type: input
-    id: title
-    attributes:
-      label: Title of post.
-      description: Enter a title for the news post
-      placeholder: ex. Christmas party
-    validations:
-      required: true
+      value: Add a title for the post.
   - type: textarea
     id: post-details
     attributes:
@@ -23,7 +15,7 @@ body:
   - type: dropdown
     id: categories
     attributes:
-      label: Select one category for the news post
+      label: Select one category for the news post.
       multiple: false
       options:
         - News
@@ -47,11 +39,11 @@ body:
         - Kids
         - Adults
     validations:
-      required: false
+      required: true
   - type: upload
     id: screenshots
     attributes:
-      label: Upload images or posters
+      label: Upload images or posters.
       description: Only JPEG and PNG are supported.
     validations:
       required: false
