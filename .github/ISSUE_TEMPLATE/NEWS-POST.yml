@@ -1,72 +1,57 @@
-name: Bug Report
-description: File a bug report.
-title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
-assignees:
-  - octocat
-type: bug
+name: News Post
+description: Create a new post.
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
+      value: Use this form to create a news or event post on the library website.
   - type: input
-    id: contact
+    id: title
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Title of post.
+      description: Enter a title for the news post
+      placeholder: ex. Christmas party
     validations:
-      required: false
+      required: true
   - type: textarea
-    id: what-happened
+    id: post-details
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Post details
+      description: Enter the details of the post
+      placeholder: ex. We will be hosting our Christmas event on 28th November. 
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: categories
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Select one category for the news post
+      multiple: false
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-      default: 0
-    validations:
-      required: true
+        - News
+        - Event
+      validations:
+        required: true
   - type: dropdown
-    id: browsers
+    id: tags
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: Select any number of tags for the post.
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com).
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+        - Christmas
+        - Easter
+        - Diwali
+        - Health
+        - Finance
+        - Arts and Crafts
+        - Writing
+        - Business
+        - Kids
+        - Adults
+      validations:
+        required: false
   - type: upload
     id: screenshots
     attributes:
-      label: Upload screenshots
-      description: If applicable, add screenshots to help explain your problem.
+      label: Upload images or posters
+      description: Only JPEG and PNG are supported.
     validations:
       required: false
