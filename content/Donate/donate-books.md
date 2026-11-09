@@ -19,12 +19,12 @@ We accept a wide range of donated books. If you have a small bag of books, pop i
 
 ## What we do with donated books
 
-Once you donate a book, one of three things happens:
+Once you donate a book, we may:
 
-* We may add the book to the library catalogue
-* We may sell the book on Ziffit or eBay to raise funds for the library
-* We may sell the book in the Library
-* We may pass the book onto [Freecycle](https://www.freecycle.org)
+* Add the book to the library catalogue
+* Sell the book on Ziffit or eBay to raise funds for the library
+* Sell the book in the Library
+* Give the book to other charities using [Freecycle](https://www.freecycle.org)
 
 {{< accordion mode="open" separated=true >}}
 
